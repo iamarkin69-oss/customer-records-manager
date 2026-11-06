@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+pycache/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+pyvenv.cfg
+
+# Secrets
+.env
+.env.*
+
+# Local customer data
+customer.json
