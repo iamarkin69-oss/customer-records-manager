@@ -13,4 +13,7 @@ pyvenv.cfg
 .env.*
 
 # Local customer data
-customer.json
+customers.json
+
+# Project plan
+plan.txt
